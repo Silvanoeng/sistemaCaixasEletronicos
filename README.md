@@ -1,15 +1,15 @@
 # sistema para caixas eletrônicos
 
-## 1°
+### 1°
 Colocar o eureka-server para rodar.
 
-## 2°
+### 2°
 Colocar o server-config para rodar.
 
-## 3°
+### 3°
 Colocar o caixas para rodar.
 
-## 4°
+### 4°
 Testar os endpoint no seu navegador.
 
 Criar um novo caixa (sem dinheiro)
