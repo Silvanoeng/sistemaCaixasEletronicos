@@ -1,0 +1,16 @@
+server:
+  port: 8011
+spring:
+  application:
+    name: banco
+  config:
+    import: optional:configserver:http://localhost:8888
+  cloud:
+    config:
+      profile: usa
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
